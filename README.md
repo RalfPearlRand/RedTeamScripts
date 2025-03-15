@@ -1,3 +1,8 @@
+crypto_bruteforce_v2.py é um Script de decodificação de payload que estou desenvolvendo, estou procurando todos os tipos de criptografias para colocar no script. Para que vocês consigam resolver algum problema, pretendo mudar para C# ou C++ para dar menos trabalho para o processador, ainda vou desenvolver, estou estudando arduino :)  
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 OroochimaruLog é um script de shell desenvolvido para realizar Analises de log, uma interface de linha de comando simples, ele permite que os usuários realizem uma analise de logs, verificando ips, resultado de requisições, portas de serviços, aplicações utilizadas, 
 Funcionalidades
 
@@ -18,7 +23,7 @@ Instalação
 
 Clone o repositório:
 
-git clone https://github.com/RalfPearlRand/RedTeamScripts-Mitsuki.git
+git clone https://github.com/RalfPearlRand/RedTeamScripts.git
 cd OroochimaruLog
 
 Dê permissão de execução ao script:
@@ -58,7 +63,7 @@ Instalação
 
 Clone o repositório:
 
-git clone https://github.com/RalfPearlRand/RedTeamScripts-Mitsuki.git
+git clone https://github.com/RalfPearlRand/RedTeamScripts.git
 cd Jirayarecon
 
 Dê permissão de execução ao script:
