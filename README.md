@@ -1,47 +1,66 @@
-# RedTeamScripts
+# Red Team Scripts
 
-Collection of scripts for Red Team operations and penetration testing.
+Coleção de scripts, automações e experimentos desenvolvidos durante estudos de Red Team, Reconhecimento, Automação de Segurança e Pesquisa em Cibersegurança.
 
-This repository contains small tools and automation scripts used in reconnaissance, network enumeration, and offensive security testing.
+O objetivo deste repositório é reunir ferramentas próprias criadas para fins educacionais, laboratórios controlados, treinamentos, CTFs e aprimoramento técnico em Segurança da Informação.
 
-⚠️ For educational purposes and authorized security testing only.
+## Projetos em Destaque
 
----
+### JiraiyaRecon.sh
 
-## Features
+Script de reconhecimento e coleta inicial de informações (Reconnaissance), auxiliando na identificação de superfícies de ataque e ativos de interesse durante exercícios de segurança.
 
-- Reconnaissance tools
-- Network enumeration scripts
-- Red team automation
-- Security research utilities
+### OroochimaruLog.sh
 
----
+Ferramenta de automação para coleta, análise e organização de logs em ambientes Linux, facilitando atividades de investigação e análise de eventos.
 
-## Structure
+### crypto_bruteforce_v2.py
 
-recon/ -> reconnaissance scripts  
-network/ -> network analysis tools  
-exploitation/ -> exploitation helpers  
-post_exploitation/ -> persistence and post access scripts  
+Projeto educacional voltado ao estudo de criptografia, força bruta e análise de senhas em ambientes controlados para compreensão de conceitos relacionados à proteção de credenciais.
 
 ---
 
-## Example usage
+## Áreas de Estudo
 
-python port_scanner.py 192.168.0.1
+* Reconnaissance (OSINT)
+* Linux Security
+* Log Analysis
+* Threat Hunting
+* Purple Team
+* Automação de Segurança
+* Criptografia
+* Python para Segurança
+* Bash Scripting
+* Laboratórios de Cibersegurança
 
 ---
 
-## Skills demonstrated
+## Tecnologias
 
-- Python scripting
-- Networking fundamentals
-- Cybersecurity concepts
-- Automation for penetration testing
+* Python
+* Bash
+* Linux
+* Git
+* GitHub
 
 ---
 
-## Disclaimer
+## Objetivo do Repositório
 
-This project is intended for educational purposes and authorized security assessments only.
-The author is not responsible for misuse of the code.
+Este projeto foi criado para documentar aprendizado prático em Cibersegurança e servir como laboratório pessoal para testes, desenvolvimento de scripts e automação de tarefas relacionadas à segurança ofensiva e defensiva.
+
+---
+
+## Aviso Legal
+
+Todos os scripts e códigos disponibilizados neste repositório destinam-se exclusivamente a fins educacionais, pesquisa, ambientes de laboratório e atividades autorizadas.
+
+O uso destas ferramentas em sistemas sem autorização explícita pode violar leis, regulamentos e políticas de segurança. O autor não se responsabiliza por usos indevidos.
+
+---
+
+## Autor
+
+**Rafael Lira de Oliveira (0R0CH!S4G3)**
+
+Técnico de Suporte | Estudante de Cibersegurança | Entusiasta de Red Team, Purple Team e Automação
